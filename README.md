@@ -5,6 +5,7 @@
 An app which allows you to get your clothes whashed, folded, and delivered straight to your door
 
 ## Screenshots
+<img src="screenshots/home.jpg" width="200" /> <img src="screenshots/detail.jpg" width="200" />
 
 ## Tools & Languages:
 
